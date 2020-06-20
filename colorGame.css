@@ -1,0 +1,56 @@
+body{
+    background: #232323;
+    margin: 0;
+    font-family: "monospace","Avenir";
+}
+.squares{
+    width: 30%;
+    height: 30%;
+    background: whitesmoke;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+    border-radius: 15%;
+}
+#container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+span{
+    padding: 0 3%;
+}
+h1{
+    color: white;
+    background: cadetblue;
+    margin: 0;
+    padding: 1.5% 20%;
+    text-align: center;
+}
+h2{
+    margin: 0;
+    background: whitesmoke;
+    margin-bottom: 2%;
+    text-align: center;
+}
+button{
+    border: none;
+    background: none;
+    font-size: medium;
+    height: 100%;
+    padding: 0.7%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.selected{
+    background: cadetblue;
+    color: white;
+}
+button:hover{
+    background: cadetblue;
+    color: white;
+}
+
+
+#colorCode{
+    font-size: 170%;
+}
