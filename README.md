@@ -1,4 +1,4 @@
-# Html Color Game
+# Html Color GAME
 A very simple web app created with html, css, js.
 
 ## you need to guess Color from the RGB Color Code and Tap on your guessed answer.
