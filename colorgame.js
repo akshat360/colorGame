@@ -12,6 +12,9 @@ var easyMode=document.getElementById("easy");
 var hardMode=document.getElementById("hard");
 var newgame=document.getElementById("newGame");
 
+
+// Gasildalihsd
+
 newgame.addEventListener("click",function(){
     location.reload();
 });
