@@ -29,6 +29,7 @@ easyMode.addEventListener("click",function () {
         }
     }
 
+// Hello boiz
 
 });
 hardMode.addEventListener("click",function () {
